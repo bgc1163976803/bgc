@@ -9,5 +9,6 @@ public class bgc {
         System.out.println(new SimpleDateFormat("yyyyMMdd HH:mm:ss").format(new Date()));
         System.out.println(new SimpleDateFormat("yyyyMMdd HH:mm:ss").format(new Date()).substring(9,11));
         System.out.println("hello git !!" );
+        System.out.println("hello git 33!!" );
     }
 }
