@@ -13,5 +13,6 @@ public class bgc {
         System.out.println("hello git 44!!" );
         System.out.println("master test 44!!" );
         System.out.println("hot-fix test 44!!" );
+        System.out.println("push test 44!!" );
     }
 }
